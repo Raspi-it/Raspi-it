@@ -8,6 +8,12 @@
 - 💼 Working on: **Organisation Platform for marine environment protection NGO, Wedding Website for my best friend & App for documenting science based experiment data**
 - 🎯 Goals: **Top my previous projects to gain more experience & learnings**
 
+## My Lists
+- [🛠️ Tools I love](https://github.com/stars/Raspi-it/lists/wrench-awesome-tools)
+- [⚙ Apps I self-host](https://github.com/stars/Raspi-it/lists/house-apps-i-self-host)
+- [💻 Apps I use](https://github.com/stars/Raspi-it/lists/computer-apps-i-use)
+- [🎓 Repos I learn from](https://github.com/stars/Raspi-it/lists/repos-i-learn-from)
+
 ## 🛠️ Tech Stack
 
 ### Languages
